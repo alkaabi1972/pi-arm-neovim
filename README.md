@@ -1,2 +1,2 @@
-# armc61-neovim
+# armv61-neovim
 neovim 12-dev deb and zig
