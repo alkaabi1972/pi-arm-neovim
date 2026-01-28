@@ -1,2 +1,2 @@
-# armv61-neovim
-neovim 12-dev deb and zig
+# armv61-zig 
+zig v0.16-dev build
