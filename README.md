@@ -1,2 +1,2 @@
-# armv61-zig 
-zig v0.16-dev build
+# armv61-zls
+zls v0.16-dev build
